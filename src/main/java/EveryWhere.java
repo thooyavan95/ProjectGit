@@ -3,6 +3,6 @@ public class EveryWhere {
     {
 
 
-        System.out.println("is jenison");
+        System.out.println("is jnison");
     }
 }
